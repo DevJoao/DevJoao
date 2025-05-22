@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DevJoao
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning typescript
-- 💞️ I’m looking to collaborate on @Cubemarket
 - 📫 How to reach me me@joaofrodrigues.com
 
 <!---
